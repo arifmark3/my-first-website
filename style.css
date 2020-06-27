@@ -126,7 +126,7 @@ header .navbar ul li a.active::before {
 /* Home section */
 .home {
   min-height: 120vh;
-  background-image: url("Images/Hero/Arif1.jpg");
+  background-image: url("Images/Hero/arif1.jpg");
   background-size: cover;
   background-position: center;
   padding: 15px;
